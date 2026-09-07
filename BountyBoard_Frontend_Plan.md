@@ -11,6 +11,7 @@ Our team (Frontend) is responsible for building the UI components and integratin
 3. Run locally with `npm start` or `npm run dev` (check `package.json` for correct script).
 4. Explore the folder structure and identify component organization.
 
+
    
 ### Phase 2 - Core UI Implementation
 1. **Dashboard Pages**
